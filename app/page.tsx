@@ -142,12 +142,12 @@ export default function StyleGuidePage() {
                 {/* GitHub Template Button */}
                 <a
                   className="contents"
-                  href="https://github.com/firecrawl/ai-ready-website"
+                  href="https://github.com/"
                   target="_blank"
                 >
                   <ButtonUI variant="tertiary">
                     <GithubIcon />
-                    Use this Template
+                    admin
                   </ButtonUI>
                 </a>
               </div>

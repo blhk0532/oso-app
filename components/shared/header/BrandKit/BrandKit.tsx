@@ -46,7 +46,7 @@ export default function HeaderBrandKit() {
         }}
       >
         <FirecrawlIcon className="size-28 -top-2 relative" />
-        <Logo />
+        <span className="text-label-large font-medium text-accent-black">os0.app</span>
       </Link>
 
       <AnimatePresence initial={false} mode="popLayout">
